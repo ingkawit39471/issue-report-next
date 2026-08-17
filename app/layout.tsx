@@ -27,7 +27,7 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
         <nav className="app-nav" aria-label="เมนูหลัก">
         <div className="app-nav-inner">
           <Link href="/">หน้าแรก</Link>
-          <Link href="/issue">รายการปัญหา</Link>
+          <Link href="/issue">ารปัญหา</Link>
           <Link href="/issue/new">แจ้งปัญหาใหม่</Link>
         </div>
       </nav>
